@@ -5,7 +5,8 @@ A modern, AI-powered educational platform that combines voice interaction, video
 ## 🌟 Live Demo
 
 **[Try it now!](https://melodious-gelato-824605.netlify.app/)**
-![Project Screenshot](src/Screenshot 2025-06-29 165312.png)
+![Project Screenshot](src\Screenshot 2025-06-29 165312.png)
+
 
 ## ✨ Features
 
